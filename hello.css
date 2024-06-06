@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+}
+
+#content {
+    text-align: center;
+}
+
+/* #favorites {
+    margin-top: 20px;
+} */
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
